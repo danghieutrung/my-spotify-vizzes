@@ -1,0 +1,271 @@
+timestamp_start,timestamp_end,most_played_artist,most_played_song,artist_duration,song_duration
+7/5/2019,7/12/2019,16 Others,61 Others,69,50
+7/12/2019,7/19/2019,Taylor Swift,61 Others,189,95
+7/19/2019,7/26/2019,Taylor Swift,61 Others,653,354
+7/26/2019,8/2/2019,Taylor Swift,61 Others,201,127
+8/2/2019,8/9/2019,Taylor Swift,61 Others,265,95
+8/9/2019,8/16/2019,Taylor Swift,61 Others,160,70
+8/16/2019,8/23/2019,Taylor Swift,61 Others,122,41
+8/23/2019,8/30/2019,Taylor Swift,61 Others,50,13
+8/30/2019,9/6/2019,Taylor Swift,61 Others,37,17
+9/6/2019,9/13/2019,Taylor Swift,61 Others,71,27
+9/13/2019,9/20/2019,Taylor Swift,As Long As You Love Me,33,15
+9/20/2019,9/27/2019,16 Others,61 Others,68,22
+9/27/2019,10/4/2019,16 Others,61 Others,81,35
+10/4/2019,10/11/2019,Taylor Swift,61 Others,33,19
+10/11/2019,10/18/2019,Taylor Swift,As Long As You Love Me,26,15
+10/18/2019,10/25/2019,16 Others,61 Others,80,33
+10/25/2019,11/1/2019,16 Others,61 Others,46,23
+11/1/2019,11/8/2019,Taylor Swift,As Long As You Love Me,76,42
+11/8/2019,11/15/2019,16 Others,61 Others,139,128
+11/15/2019,11/22/2019,Taylor Swift,61 Others,57,27
+11/22/2019,11/29/2019,Taylor Swift,61 Others,706,63
+11/29/2019,12/6/2019,Taylor Swift,61 Others,544,43
+12/6/2019,12/13/2019,Taylor Swift,61 Others,397,90
+12/13/2019,12/20/2019,Taylor Swift,61 Others,113,14
+12/20/2019,12/27/2019,Taylor Swift,Sparks Fly,276,100
+12/27/2019,1/3/2020,Taylor Swift,Sparks Fly,496,91
+1/3/2020,1/10/2020,Taylor Swift,Sparks Fly,380,143
+1/10/2020,1/17/2020,Taylor Swift,Enchanted,238,23
+1/17/2020,1/24/2020,Taylor Swift,As Long As You Love Me,486,127
+1/24/2020,1/31/2020,Taylor Swift,Enchanted,203,72
+1/31/2020,2/7/2020,Taylor Swift,61 Others,608,137
+2/7/2020,2/14/2020,Taylor Swift,Sparks Fly,621,87
+2/14/2020,2/21/2020,Taylor Swift,Sparks Fly,1036,321
+2/21/2020,2/28/2020,Taylor Swift,Sparks Fly,1455,312
+2/28/2020,3/6/2020,Taylor Swift,Sparks Fly,1078,239
+3/6/2020,3/13/2020,Taylor Swift,Sparks Fly,927,234
+3/13/2020,3/20/2020,Taylor Swift,Enchanted,909,242
+3/20/2020,3/27/2020,Taylor Swift,61 Others,586,81
+3/27/2020,4/3/2020,Taylor Swift,Sparks Fly,1119,152
+4/3/2020,4/10/2020,Taylor Swift,61 Others,2015,203
+4/10/2020,4/17/2020,Taylor Swift,61 Others,1189,137
+4/17/2020,4/24/2020,Taylor Swift,61 Others,1040,117
+4/24/2020,5/1/2020,Taylor Swift,61 Others,1425,192
+5/1/2020,5/8/2020,Taylor Swift,61 Others,795,84
+5/8/2020,5/15/2020,Taylor Swift,61 Others,750,87
+5/15/2020,5/22/2020,Taylor Swift,61 Others,512,50
+5/22/2020,5/29/2020,16 Others,Nuvole Bianche,201,106
+5/29/2020,6/5/2020,Taylor Swift,Nuvole Bianche,541,95
+6/5/2020,6/12/2020,Taylor Swift,Nuvole Bianche,308,103
+6/12/2020,6/19/2020,Ludovico Einaudi,Nuvole Bianche,344,308
+6/19/2020,6/26/2020,Taylor Swift,Nuvole Bianche,304,224
+6/26/2020,7/3/2020,Ludovico Einaudi,Nuvole Bianche,238,378
+7/3/2020,7/10/2020,Ludovico Einaudi,Nuvole Bianche,202,207
+7/10/2020,7/17/2020,Ludovico Einaudi,Nuvole Bianche,145,164
+7/17/2020,7/24/2020,16 Others,Nuvole Bianche,156,172
+7/24/2020,7/31/2020,16 Others,Nuvole Bianche,161,166
+7/31/2020,8/7/2020,Taylor Swift,Nuvole Bianche,239,166
+8/7/2020,8/14/2020,Taylor Swift,Nuvole Bianche,231,121
+8/14/2020,8/21/2020,Taylor Swift,Nuvole Bianche,356,38
+8/21/2020,8/28/2020,Taylor Swift,Nuvole Bianche,180,61
+8/28/2020,9/4/2020,Taylor Swift,Nuvole Bianche,164,80
+9/4/2020,9/11/2020,Taylor Swift,Nuvole Bianche,90,54
+9/11/2020,9/18/2020,Taylor Swift,Nuvole Bianche,80,40
+9/18/2020,9/25/2020,Taylor Swift,61 Others,75,28
+9/25/2020,10/2/2020,Taylor Swift,Sparks Fly,166,47
+10/2/2020,10/9/2020,Taylor Swift,Nuvole Bianche,46,17
+10/9/2020,10/16/2020,16 Others,Moonlight Sonata,83,41
+10/16/2020,10/23/2020,16 Others,Moonlight Sonata,56,26
+10/23/2020,10/30/2020,Ludovico Einaudi,Nuvole Bianche,98,35
+10/30/2020,11/6/2020,Ludovico Einaudi,61 Others,81,34
+11/6/2020,11/13/2020,Ludovico Einaudi,Moonlight Sonata,67,24
+11/13/2020,11/20/2020,Taylor Swift,The Portrait,15,14
+11/20/2020,11/27/2020,Ludovico Einaudi,Nuvole Bianche,25,24
+11/27/2020,12/4/2020,Taylor Swift,Moonlight Sonata,124,39
+12/4/2020,12/11/2020,Taylor Swift,Sparks Fly,902,116
+12/11/2020,12/18/2020,16 Others,61 Others,97,94
+12/18/2020,12/25/2020,Taylor Swift,Nuvole Bianche,153,133
+12/25/2020,1/1/2021,Taylor Swift,Nuvole Bianche,192,54
+1/1/2021,1/8/2021,Taylor Swift,Sparks Fly,462,56
+1/8/2021,1/15/2021,Taylor Swift,Nuvole Bianche,206,18
+1/15/2021,1/22/2021,Taylor Swift,61 Others,252,32
+1/22/2021,1/29/2021,Taylor Swift,Ancora,75,12
+1/29/2021,2/5/2021,Taylor Swift,61 Others,160,41
+2/5/2021,2/12/2021,Taylor Swift,Nuvole Bianche,138,23
+2/12/2021,2/19/2021,Taylor Swift,61 Others,60,12
+2/19/2021,2/26/2021,Taylor Swift,Nuvole Bianche,650,180
+2/26/2021,3/5/2021,Taylor Swift,61 Others,333,93
+3/5/2021,3/12/2021,Taylor Swift,61 Others,372,134
+3/12/2021,3/19/2021,Taylor Swift,Nuvole Bianche,238,92
+3/19/2021,3/26/2021,Ludovico Einaudi,Nuvole Bianche,61,40
+3/26/2021,4/2/2021,Ludovico Einaudi,61 Others,55,24
+4/2/2021,4/9/2021,Ludovico Einaudi,Nuvole Bianche,96,34
+4/9/2021,4/16/2021,Ludovico Einaudi,The Portrait,177,51
+4/16/2021,4/23/2021,Ludovico Einaudi,Nuvole Bianche,245,53
+4/23/2021,4/30/2021,Ludovico Einaudi,Nuvole Bianche,141,126
+4/30/2021,5/7/2021,Ludovico Einaudi,The Portrait,177,66
+5/7/2021,5/14/2021,Ludovico Einaudi,Moonlight Sonata,40,24
+5/14/2021,5/21/2021,Taylor Swift,61 Others,123,27
+5/21/2021,5/28/2021,16 Others,61 Others,75,44
+5/28/2021,6/4/2021,16 Others,61 Others,95,89
+6/4/2021,6/11/2021,Joe Hisaishi,61 Others,391,123
+6/11/2021,6/18/2021,Joe Hisaishi,Nuvole Bianche,48,24
+6/18/2021,6/25/2021,Joe Hisaishi,61 Others,164,32
+6/25/2021,7/2/2021,Ludovico Einaudi,Nuvole Bianche,69,42
+7/2/2021,7/9/2021,Ludovico Einaudi,Nuvole Bianche,111,85
+7/9/2021,7/16/2021,Taylor Swift,61 Others,38,24
+7/16/2021,7/23/2021,Ludovico Einaudi,Nuvole Bianche,180,151
+7/23/2021,7/30/2021,Ludovico Einaudi,Nuvole Bianche,126,105
+7/30/2021,8/6/2021,16 Others,61 Others,121,120
+8/6/2021,8/13/2021,Ludovico Einaudi,Nuvole Bianche,95,95
+8/13/2021,8/20/2021,Ludovico Einaudi,Nuvole Bianche,84,84
+8/20/2021,8/27/2021,Taylor Swift,The Portrait,87,24
+8/27/2021,9/3/2021,Ludovico Einaudi,Nuvole Bianche,193,185
+9/3/2021,9/10/2021,Ludovico Einaudi,Nuvole Bianche,290,290
+9/10/2021,9/17/2021,Ludovico Einaudi,Nuvole Bianche,304,304
+9/17/2021,9/24/2021,Ludovico Einaudi,Nuvole Bianche,86,86
+9/24/2021,10/1/2021,Ludovico Einaudi,Nuvole Bianche,397,397
+10/1/2021,10/8/2021,Ludovico Einaudi,Nuvole Bianche,490,490
+10/8/2021,10/15/2021,Ludovico Einaudi,Nuvole Bianche,508,450
+10/15/2021,10/22/2021,Ludovico Einaudi,Nuvole Bianche,847,478
+10/22/2021,10/29/2021,Ludovico Einaudi,Nuvole Bianche,607,114
+10/29/2021,11/5/2021,Ludovico Einaudi,Nuvole Bianche,440,147
+11/5/2021,11/12/2021,Ludovico Einaudi,Nuvole Bianche,584,79
+11/12/2021,11/19/2021,Ludovico Einaudi,Nuvole Bianche,735,176
+11/19/2021,11/26/2021,Ludovico Einaudi,Nuvole Bianche,607,537
+11/26/2021,12/3/2021,Ludovico Einaudi,Nuvole Bianche,395,206
+12/3/2021,12/10/2021,Ludovico Einaudi,Nuvole Bianche,378,339
+12/10/2021,12/17/2021,Ludovico Einaudi,Nuvole Bianche,302,208
+12/17/2021,12/24/2021,Ludovico Einaudi,Nuvole Bianche,82,82
+12/24/2021,12/31/2021,Ludovico Einaudi,Nuvole Bianche,245,245
+12/31/2021,1/7/2022,Ludovico Einaudi,Nuvole Bianche,160,153
+1/7/2022,1/14/2022,Ludovico Einaudi,Nuvole Bianche,145,51
+1/14/2022,1/21/2022,Ludovico Einaudi,61 Others,220,31
+1/21/2022,1/28/2022,Ludovico Einaudi,Oltremare,239,44
+1/28/2022,2/4/2022,Ludovico Einaudi,61 Others,40,7
+2/4/2022,2/11/2022,Ludovico Einaudi,Ancora,339,44
+2/11/2022,2/18/2022,Ludovico Einaudi,Ancora,337,59
+2/18/2022,2/25/2022,Taylor Swift,Nuvole Bianche,474,134
+2/25/2022,3/4/2022,Ludovico Einaudi,Nuvole Bianche,431,252
+3/4/2022,3/11/2022,Ludovico Einaudi,Nuvole Bianche,245,153
+3/11/2022,3/18/2022,Taylor Swift,61 Others,281,66
+3/18/2022,3/25/2022,Ludovico Einaudi,Nuvole Bianche,119,97
+3/25/2022,4/1/2022,Taylor Swift,Nuvole Bianche,199,110
+4/1/2022,4/8/2022,Ludovico Einaudi,Nuvole Bianche,331,49
+4/8/2022,4/15/2022,Ludovico Einaudi,61 Others,308,43
+4/15/2022,4/22/2022,Ludovico Einaudi,Nuvole Bianche,23,23
+4/22/2022,4/29/2022,Ludovico Einaudi,Ancora,146,24
+4/29/2022,5/6/2022,Taylor Swift,61 Others,118,23
+5/6/2022,5/13/2022,16 Others,The Portrait,9,9
+5/13/2022,5/20/2022,Ludovico Einaudi,Nuvole Bianche,6,5
+5/20/2022,5/27/2022,Ludovico Einaudi,Ancora,136,24
+5/27/2022,6/3/2022,Taylor Swift,61 Others,40,8
+6/3/2022,6/10/2022,Taylor Swift,Enchanted,327,52
+6/10/2022,6/17/2022,Taylor Swift,Oltremare,192,33
+6/17/2022,6/24/2022,Ludovico Einaudi,Oltremare,428,72
+6/24/2022,7/1/2022,Ludovico Einaudi,Enchanted,325,90
+7/1/2022,7/8/2022,Taylor Swift,Enchanted,355,208
+7/8/2022,7/15/2022,Taylor Swift,Enchanted,666,309
+7/15/2022,7/22/2022,Taylor Swift,Enchanted,275,82
+7/22/2022,7/29/2022,Taylor Swift,61 Others,1375,252
+7/29/2022,8/5/2022,Taylor Swift,Enchanted,1340,195
+8/5/2022,8/12/2022,Taylor Swift,Enchanted,720,168
+8/12/2022,8/19/2022,Taylor Swift,Enchanted,894,98
+8/19/2022,8/26/2022,Taylor Swift,Enchanted,1863,463
+8/26/2022,9/2/2022,Taylor Swift,Enchanted,2543,719
+9/2/2022,9/9/2022,Taylor Swift,Enchanted,1849,509
+9/9/2022,9/16/2022,Taylor Swift,Enchanted,1730,378
+9/16/2022,9/23/2022,Taylor Swift,61 Others,1324,642
+9/23/2022,9/30/2022,Taylor Swift,61 Others,1190,486
+9/30/2022,10/7/2022,Taylor Swift,61 Others,702,310
+10/7/2022,10/14/2022,Taylor Swift,61 Others,537,201
+10/14/2022,10/21/2022,Taylor Swift,61 Others,225,114
+10/21/2022,10/28/2022,Taylor Swift,61 Others,265,32
+10/28/2022,11/4/2022,Taylor Swift,Enchanted,159,23
+11/4/2022,11/11/2022,Ludovico Einaudi,Enchanted,175,51
+11/11/2022,11/18/2022,Taylor Swift,Enchanted,163,19
+11/18/2022,11/25/2022,Taylor Swift,Enchanted,349,48
+11/25/2022,12/2/2022,Taylor Swift,Ancora,252,21
+12/2/2022,12/9/2022,Taylor Swift,Enchanted,241,82
+12/9/2022,12/16/2022,Taylor Swift,Enchanted,252,64
+12/16/2022,12/23/2022,Ludovico Einaudi,61 Others,93,15
+12/23/2022,12/30/2022,Ludovico Einaudi,61 Others,26,9
+12/30/2022,1/6/2023,Taylor Swift,Enchanted,31,11
+1/6/2023,1/13/2023,Taylor Swift,Enchanted,107,23
+1/13/2023,1/20/2023,Taylor Swift,Enchanted,61,11
+1/20/2023,1/27/2023,Taylor Swift,Enchanted,21,11
+1/27/2023,2/3/2023,Taylor Swift,Enchanted,1197,409
+2/3/2023,2/10/2023,Taylor Swift,Enchanted,739,129
+2/10/2023,2/17/2023,Ludovico Einaudi,61 Others,17,7
+2/17/2023,2/24/2023,Taylor Swift,Enchanted,190,113
+2/24/2023,3/3/2023,Ludovico Einaudi,Nuvole Bianche,234,39
+3/3/2023,3/10/2023,Ludovico Einaudi,Enchanted,352,36
+3/10/2023,3/17/2023,Ludovico Einaudi,Oltremare,10,10
+3/17/2023,3/24/2023,Ludovico Einaudi,61 Others,32,14
+3/24/2023,3/31/2023,Taylor Swift,Enchanted,317,41
+3/31/2023,4/7/2023,Taylor Swift,61 Others,191,174
+4/7/2023,4/14/2023,Taylor Swift,61 Others,498,379
+4/14/2023,4/21/2023,Ludovico Einaudi,Nuvole Bianche,607,509
+4/21/2023,4/28/2023,Ludovico Einaudi,Nuvole Bianche,323,148
+4/28/2023,5/5/2023,Taylor Swift,Enchanted,157,73
+5/5/2023,5/12/2023,Ludovico Einaudi,61 Others,153,100
+5/12/2023,5/19/2023,16 Others,61 Others,364,364
+5/19/2023,5/26/2023,Taylor Swift,Sparks Fly,210,24
+5/26/2023,6/2/2023,Taylor Swift,Nuvole Bianche,422,286
+6/2/2023,6/9/2023,Taylor Swift,61 Others,12,4
+6/9/2023,6/16/2023,Taylor Swift,Enchanted,76,15
+6/16/2023,6/23/2023,Taylor Swift,61 Others,35,7
+6/23/2023,6/30/2023,Taylor Swift,Enchanted,130,11
+6/30/2023,7/7/2023,Taylor Swift,61 Others,103,11
+7/7/2023,7/14/2023,Taylor Swift,Enchanted,88,23
+7/14/2023,7/21/2023,Taylor Swift,Nuvole Bianche,217,21
+7/21/2023,7/28/2023,Taylor Swift,Enchanted,132,17
+7/28/2023,8/4/2023,Taylor Swift,61 Others,161,34
+8/4/2023,8/11/2023,Taylor Swift,61 Others,161,11
+8/11/2023,8/18/2023,Taylor Swift,Enchanted,233,23
+8/18/2023,8/25/2023,Taylor Swift,Nuvole Bianche,66,44
+8/25/2023,9/1/2023,16 Others,61 Others,65,26
+9/1/2023,9/8/2023,Taylor Swift,Enchanted,108,11
+9/8/2023,9/15/2023,Westlife,61 Others,132,24
+9/15/2023,9/22/2023,Taylor Swift,61 Others,167,14
+9/22/2023,9/29/2023,16 Others,61 Others,23,23
+9/29/2023,10/6/2023,Westlife,61 Others,145,24
+10/6/2023,10/13/2023,Taylor Swift,61 Others,96,14
+10/13/2023,10/20/2023,Taylor Swift,61 Others,105,30
+10/20/2023,10/27/2023,Westlife,61 Others,84,49
+10/27/2023,11/3/2023,Westlife,61 Others,155,23
+11/3/2023,11/10/2023,Taylor Swift,Enchanted,361,55
+11/10/2023,11/17/2023,Taylor Swift,Enchanted,286,97
+11/17/2023,11/24/2023,Ludovico Einaudi,Nuvole Bianche,421,151
+11/24/2023,12/1/2023,Taylor Swift,Nuvole Bianche,606,68
+12/1/2023,12/8/2023,Taylor Swift,Nuvole Bianche,577,46
+12/8/2023,12/15/2023,Taylor Swift,61 Others,112,71
+12/15/2023,12/22/2023,16 Others,61 Others,139,38
+12/22/2023,12/29/2023,Taylor Swift,61 Others,132,11
+12/29/2023,1/5/2024,Taylor Swift,61 Others,13,4
+1/5/2024,1/12/2024,Taylor Swift,61 Others,72,20
+1/12/2024,1/19/2024,Taylor Swift,61 Others,228,30
+1/19/2024,1/26/2024,Westlife,61 Others,77,12
+1/26/2024,2/2/2024,Taylor Swift,Enchanted,208,19
+2/2/2024,2/9/2024,Ludovico Einaudi,Oltremare,124,22
+2/9/2024,2/16/2024,Westlife,61 Others,42,13
+2/16/2024,2/23/2024,Westlife,61 Others,95,18
+2/23/2024,3/1/2024,Taylor Swift,Enchanted,163,19
+3/1/2024,3/8/2024,Justin Bieber,61 Others,60,25
+3/8/2024,3/15/2024,Justin Bieber,As Long As You Love Me,82,35
+3/15/2024,3/22/2024,Lana Del Rey,61 Others,878,188
+3/22/2024,3/29/2024,Lana Del Rey,61 Others,497,76
+3/29/2024,4/5/2024,Lana Del Rey,Nuvole Bianche,158,44
+4/5/2024,4/12/2024,Taylor Swift,61 Others,167,19
+4/12/2024,4/19/2024,16 Others,61 Others,22,12
+4/19/2024,4/26/2024,Sơn Tùng M-TP,Nơi Này Có Anh,535,412
+4/26/2024,5/3/2024,JustaTee,61 Others,544,257
+5/3/2024,5/10/2024,JustaTee,Nơi Này Có Anh,385,187
+5/10/2024,5/17/2024,Andiez,61 Others,824,656
+5/17/2024,5/24/2024,Andiez,61 Others,750,506
+5/24/2024,5/31/2024,Andiez,61 Others,272,145
+5/31/2024,6/7/2024,Sơn Tùng M-TP,Nơi Này Có Anh,548,276
+6/7/2024,6/14/2024,Sơn Tùng M-TP,Nơi Này Có Anh,1450,344
+6/14/2024,6/21/2024,Sơn Tùng M-TP,Nơi Này Có Anh,652,125
+6/21/2024,6/28/2024,Sơn Tùng M-TP,61 Others,669,103
+6/28/2024,7/5/2024,Sơn Tùng M-TP,Nơi Này Có Anh,160,72
+7/5/2024,7/12/2024,Sơn Tùng M-TP,Nơi Này Có Anh,164,69
+7/12/2024,7/19/2024,Sơn Tùng M-TP,Nơi Này Có Anh,241,59
+7/19/2024,7/26/2024,Sơn Tùng M-TP,Nơi Này Có Anh,251,52
+7/26/2024,8/2/2024,Sơn Tùng M-TP,Nơi Này Có Anh,121,21
+8/2/2024,8/9/2024,Sơn Tùng M-TP,Nuvole Bianche,113,29
+8/9/2024,8/16/2024,Sơn Tùng M-TP,Nơi Này Có Anh,246,67
+8/16/2024,8/23/2024,Sơn Tùng M-TP,Nơi Này Có Anh,548,209
+8/23/2024,8/30/2024,Sơn Tùng M-TP,61 Others,1460,403
+8/30/2024,9/6/2024,Sơn Tùng M-TP,Nơi Này Có Anh,233,80
